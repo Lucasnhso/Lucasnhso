@@ -7,7 +7,9 @@
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-h-oliveira">
       </img>
     </a>
-
+     <a href="https://www.instagram.com/lucasnhso/">
+        <img src="https://img.shields.io/badge/-Instagram-ff69b4?style=flat square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucasnhso/"></img>
+      </a>
 
   <a href="https://github.com/lucasnhso">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasnhso"></img>
@@ -18,12 +20,8 @@
   </a>
   </div>
 </p>
-<h1>
-    Personal web site: 
-    <a href="www.lucashso.com.br">
-        www.lucashso.com.br
-    </a>
-</h1>
+
+
 
 <p style="text-align: center">
     Graduated in Systems Analysis and Development, I work since 2020 with full stack development with greater focus on back end.
