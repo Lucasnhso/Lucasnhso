@@ -24,7 +24,7 @@
 
 
 <p style="text-align: center">
-    Graduated in Systems Analysis and Development, I work since 2020 with full stack development with greater focus on back end.
+    Graduated in Systems Analysis and Development, I work since 2019 with full stack development with greater focus on back end.
 </p>
 <br/>
 <p style="text-align: center">
